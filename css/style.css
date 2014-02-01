@@ -46,7 +46,7 @@ hr {color: #eeeeee;}
 #staffpage ul{margin-left:40px}
 .staff-phone{margin-top: -19px; font-family: Arvo, serif; color: #145E8C !important;}
 
-#main_content_staff{clear:both; float:left; width: 1100px; margin-left: 20px;}
+#main_content_staff, #main_content_newsletter{clear:both; float:left; width: 1100px; margin-left: 20px;}
 #main_content_staff h2 {width: 1100px; margin-left: 0;}
 .profile_photos{clear: both; float: left; width: 325px; margin-top: 20px;}
 .profile_bio{float: left; width: 390px; margin-left: 10px; margin-right: 10px; margin-top: 20px;}
@@ -61,9 +61,11 @@ hr {color: #eeeeee;}
 #staff_header h2 {margin-left: 20px;}
 #staff_header hr{margin-left: 20px;}
 
-.newsletter_group_left{float: left; width: 500px; margin-left: 10px; margin-right: 10px; margin-top: 20px;}
-.newsletter_group_left h4{margin-top: -15px;}
-.newsletter_group_righty{float:left; width: 500px; margin-left: 45px; margin-top: 50px;}
+.newsletter_group_left{float: left; width: 420px; margin-left: 120px; margin-right: 10px;}
+.newsletter_group_right{float:left; width: 500px; margin-left: 45px;}
+#main_content_newsletter p {font-size: 16px;}
+.newsletter_group_left p, .newsletter_group_right p {color: #757575;}
+.newsletter_group_left a, .newsletter_group_right a, .newsletter-bold {color: #2d3f3c;}
 
 .aed-photo{float: left; width: 252px; height: 325px; margin: 20px 10px 30px 10px;}
 .aed-photo p {text-align: center;}

@@ -24,7 +24,7 @@ function DisplayFooter(){
             </ul>
         </div><!--footer_bottom_content-->
     <div id="footer_copyright">
-        <p>COPYRIGHT 2013 THE VIA FOUNDATION. ALL RIGHTS RESERVED.</p>
+        <p>COPYRIGHT 2014 THE VIA FOUNDATION. ALL RIGHTS RESERVED.</p>
     </div><!--footer_copyright--<>
 </div><!--footer-->
 </body>
