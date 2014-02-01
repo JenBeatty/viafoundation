@@ -129,6 +129,36 @@
     	</div><!--interesting_facts-->
     	
     	<div class="profile_photos">
+    		<img src="images/staff_Rochelle.jpg" alt="Rochelle Short" />
+    	</div><!--profile_photos-->
+    	
+    	<div class="profile_bio">
+    		<h3>Rochelle Short</h3>
+    		<h4>Social Media and Marketing Manager</h4>
+    		
+    		<p>Rochelle came to The Via Foundation wanting to merge her love of social media 
+    		with her passion for being involved in a cause she believes in. After leaving a 
+    		decade-long career in the real estate field, Rochelle spent a year volunteering 
+    		for various nonprofits and completing her certification in editing from the University 
+    		of Washington. She handles print, press, and social media outreach for The Via 
+    		Foundation. Her dream job title is “Chief Conversationalist” and she looks forward 
+    		to connecting with you on the foundation’s Facebook and Twitter pages.
+    		</p>
+    	
+    	</div><!--profile_bio-->
+    	
+    	<div class="interesting_facts">
+    	<p class="fact_title_even">Interesting Facts About Rochelle</p>
+    	
+    	<ul>
+    		<li>She recycles plastic bottle caps obsessively for her numerous Montessori friends’ craft projects.</li>
+    		<li>She can hail a taxi from over two blocks away with her loud whistle.</li>
+    		<li>She loves reading culinary memoirs but rarely steps foot in her own kitchen.</li>
+    	</ul>
+    	
+    	</div><!--interesting_facts-->
+    	
+    	<div class="profile_photos">
     		<img src="images/staff_Joe.jpg" alt="Joe Kinson" />
     	</div><!--profile_photos-->
     	
@@ -151,47 +181,12 @@
     	</div><!--profile_bio-->
     	
     	<div class="interesting_facts">
-    	<p class="fact_title_even">Interesting Facts About Joe</p>
+    	<p class="fact_title_odd">Interesting Facts About Joe</p>
     	
     	<ul>
     		<li>He has made over 60 gallons of chili at one time for his side hobby, chili cook-offs.</li>
     		<li>He has been a pizza maker, a radio disc jockey, and a play-by-play sportscaster before becoming a firefighter.</li>
     		<li>He is extremely afraid of clowns.</li>
-    	</ul>
-    	
-    	</div><!--interesting_facts-->
-    	
-    	    	<div class="profile_photos">
-    		<img src="images/staff_pam.jpg" alt="Pam Dodson" />
-    	</div><!--profile_photos-->
-    	
-    	<div class="profile_bio">
-    		<h3>Pam Dodson</h3>
-    		<h4>Director of Program Development</h4>
-    		<p class="staff-phone">800.284.0125 ext. 705</p>
-    		
-    		<p>Pam Dodson comes to The Via Foundation after recently retiring from a career 
-    		in Emergency Medical Services. Over a span of nearly thirty years of service, she 
-    		developed the following life-saving programs: Public Safety Defibrillation, Public 
-    		Access Defibrillation, and HeartSafe Community. Her passion for improving survival 
-    		from sudden cardiac arrest began when she was a registered nurse in the cardiac 
-    		care unit. She loves to teach and is excited to work with Via, continuing her 
-    		quest to change bystander culture. She strives to make performing CPR a “normal” 
-    		response after someone collapses in SCA. Pam’s true love is her children, Christopher 
-    		and Kelsey. With both away at college, she has plenty of time to enjoy her life in 
-    		Benicia, California.  We consider ourselves the luckiest non-profit organization 
-    		in the world to have Pam on board!
-    		</p>
-    	
-    	</div><!--profile_bio-->
-    	
-    	<div class="interesting_facts">
-    	<p class="fact_title_odd">Interesting Facts About Pam</p>
-    	
-    	<ul>
-    		<li>She recently considered leaving medicine to purchase a flower shop. She loves making floral arrangements for parties and weddings.</li>
-			<li>She is short enough to climb into a medical helicopter without ducking.</li>
-			<li>She has a hard time turning someone down when asked for something, but doesn’t like being told what to do. That's fine with us!</li>
     	</ul>
     	
     	</div><!--interesting_facts-->
@@ -226,37 +221,6 @@
     	</ul>
     	
     	</div><!--interesting_facts-->
-    	
-    	<div class="profile_photos">
-    		<img src="images/staff_Rochelle.jpg" alt="Rochelle Short" />
-    	</div><!--profile_photos-->
-    	
-    	<div class="profile_bio">
-    		<h3>Rochelle Short</h3>
-    		<h4>Social Media and Marketing Manager</h4>
-    		
-    		<p>Rochelle came to The Via Foundation wanting to merge her love of social media 
-    		with her passion for being involved in a cause she believes in. After leaving a 
-    		decade-long career in the real estate field, Rochelle spent a year volunteering 
-    		for various nonprofits and completing her certification in editing from the University 
-    		of Washington. She handles print, press, and social media outreach for The Via 
-    		Foundation. Her dream job title is “Chief Conversationalist” and she looks forward 
-    		to connecting with you on the foundation’s Facebook and Twitter pages.
-    		</p>
-    	
-    	</div><!--profile_bio-->
-    	
-    	<div class="interesting_facts">
-    	<p class="fact_title_odd">Interesting Facts About Rochelle</p>
-    	
-    	<ul>
-    		<li>She recycles plastic bottle caps obsessively for her numerous Montessori friends’ craft projects.</li>
-    		<li>She can hail a taxi from over two blocks away with her loud whistle.</li>
-    		<li>She loves reading culinary memoirs but rarely steps foot in her own kitchen.</li>
-    	</ul>
-    	
-    	</div><!--interesting_facts-->
-    	
     			
     	<img src="images/cathyAboutGraphic.png" id="chain_of_life" alt="Cathy hard at work" />
 
