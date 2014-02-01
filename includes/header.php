@@ -103,7 +103,7 @@ function DisplayHeader($title, $keywords, $description, $type="1", $menuNumber="
                 <ul>
                     <li onclick="window.location = 'who-we-are.php'"><div class="circle"><span class="text">1</span></div><a href="who-we-are.php">About</a><br /><span class="sub_text-first">Find out who Via is</span></li>
                     <li onclick="window.location = 'about-what-we-do.php'"><div class="circle"><span class="text">2</span></div><a href="about-what-we-do.php">Programs</a><br /><span class="sub_text">Read about what Via does</span></li>
-                    <li onclick="window.location = 'via-newsletter.php'"><div class="circle"><span class="text">3</span></div><a href="via-staff.php">Newsletter</a><br /><span class="sub_text">Read and Subscribe</span></li>
+                    <li onclick="window.location = 'via-newsletter.php'"><div class="circle"><span class="text">3</span></div><a href="via-newsletter.php">Newsletter</a><br /><span class="sub_text">Read and Subscribe</span></li>
                     <li onclick="window.location = 'donate.php'"><div class="circle"><span class="text">4</span></div><a href="donate.php">Donate</a><br /><span class="sub_text">Support our work &amp; programs</span></li>
                 </ul>
             </div><!--sub_heading-->
