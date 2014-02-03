@@ -98,7 +98,7 @@ function DisplayHeader($title, $keywords, $description, $type="1", $menuNumber="
         if($isHome)
         {
         ?>
-            <img src="images/bannerHome3.jpg" />
+            <img src="images/banner02.jpg" />
             <div id="sub_heading">
                 <ul>
                     <li onclick="window.location = 'who-we-are.php'"><div class="circle"><span class="text">1</span></div><a href="who-we-are.php">About</a><br /><span class="sub_text-first">Find out who Via is</span></li>
