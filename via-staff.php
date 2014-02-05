@@ -257,6 +257,36 @@
     	
     	</div><!--interesting_facts-->
     	
+    	<div class="profile_photos">
+    		<img src="images/staff_mindi.jpg" alt="Mindi Arvizu" />
+    	</div><!--profile_photos-->
+    	
+    	<div class="profile_bio">
+    		<h3>Mindi Arvizu</h3>
+    		<h4>Site Maintenance Coordinator</h4>
+    		<p class="staff-phone">800.284.0125</p>
+    		
+    		<p>With over four years of experience teaching CPR and AED training; volunteering for the 
+    		Sudden Cardiac Arrest Association in Bakersfield and Olivia’s Heart Project; and being a 
+    		deputy sheriff -- Mindi assists with our Site Maintenance Program in Kern County. Mindi first 
+    		learned CPR in an EMT class and is currently pursuing a nursing degree. She enjoys helping 
+    		people and is committed to doing her part to improve the SCA survival rate by teaching others 
+    		how to perform CPR and use AEDs.
+    		</p>
+    	
+    	</div><!--profile_bio-->
+    	
+    	<div class="interesting_facts">
+    	<p class="fact_title_odd">Interesting Facts About Mindi</p>
+    	
+    	<ul>
+    		<li>She rides an 800 Suzuki Intruder motorcycle.</li>
+			<li>People call her for help if they’ve found baby birds or injured birds.</li>
+			<li>She is always asked to make her famous salsa for special events.</li>
+    	</ul>
+    	
+    	</div><!--interesting_facts-->
+    	
     			
     	<img src="images/cathyAboutGraphic.png" id="chain_of_life" alt="Cathy hard at work" />
 
