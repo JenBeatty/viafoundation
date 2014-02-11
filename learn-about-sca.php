@@ -14,7 +14,7 @@
 
 <div  class="fullWidth_page">
     
-    <img src='images/aboutSCA_banner.jpg' alt="Learn About The Via Foundation" />
+    <img src='images/aboutSCA_banner-V2.jpg' alt="Learn About The Via Foundation" />
         
     <div class="main_content_fullWidth">
 

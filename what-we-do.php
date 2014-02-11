@@ -14,7 +14,7 @@
 
 <div id="main_content">
     
-    <img src= "images/bannerAbout2.jpg" alt="Learn About The Via Foundation" />
+    <img src= "images/bannerAbout2-V2.jpg" alt="Learn About The Via Foundation" />
         
     <div id="main_left2">
     

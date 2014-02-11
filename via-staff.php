@@ -15,7 +15,7 @@
 
 <div id="main-rest">
     
-    <img src='images/staff-banner-0607.jpg' alt="Learn About The Via Foundation" />
+    <img src='images/staff-banner-0607-V2.jpg' alt="Learn About The Via Foundation" />
 
 	<header id="staff_header">
     <h2>The Via Foundation Staff</h2>

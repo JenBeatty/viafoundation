@@ -15,7 +15,7 @@
 
 <div class="fullWidth_page">
     
-    <img src='images/banner_whatIsAnAED.jpg' alt="Learn About Automatic External Defibrilators" />
+    <img src='images/banner_whatIsAnAED-V2.jpg' alt="Learn About Automatic External Defibrilators" />
         
     <div class="main_content_fullWidth">
 
