@@ -28,7 +28,7 @@
         communities, and businesses nationwide. By raising funds, managing, and implementing 
         complete long-term automated external defibrillator (AED) programs in our communities, 
         The Via Foundation will increase the survival rate from sudden cardiac arrest (SCA). 
-        Currently, the national average survival rate from SCA is 75%. SCA kills more Americans 
+        Currently, the national average survival rate from SCA is under 10%. SCA kills more Americans 
         each year than breast cancer, lung cancer, prostate cancer, and AIDS combined.
         </p>
         

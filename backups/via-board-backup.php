@@ -161,19 +161,7 @@
     		<h3>Bruce Medoff</h3>
     		<h4>Board Member</h4>
     		
-    		<p>Bruce is a native of New Jersey. After completing his studies in philosophy, and later, medicine, 
-    		he headed west and settled in San Francisco. Bruce is an emergency physician and has practiced and 
-    		taught medicine for 29 years. He is a medical director of mid-level providers and attending physician 
-    		at California Pacific Medical Center.</p>
-
-			<p>His interest in pre-hospital care and sudden death dates back to his years in high school and college 
-			when he worked as an EMT for his community ambulance corps. Since then, he has had countless opportunities 
-			to witness the advances in pre-hospital cardiac care and in particular, the value of the AED.</p>
-
-			<p>Bruce lives in San Francisco with his wife, Miriam. They have two grown children and one exceptionally 
-			large, shaggy dog named Calvin.</p>
-
-
+    		<p> Coming Soon!! 
     		</p>
     	
     	</div><!--profile_bio-->
