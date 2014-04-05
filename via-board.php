@@ -190,41 +190,30 @@
     	</div><!--interesting_facts-->
     	
     	<div class="profile_photos">
-    		<img src="images/board_Nancy.jpg" alt="Nancy Spalding" />
+    		<img src="images/board_Wes.jpg" alt="Wes Levitt" />
     	</div><!--profile_photos-->
     	
     	<div class="profile_bio">
-    		<h3>Nancy Spradling</h3>
-    		<h4>BA in Consumer Food Science</h4>
-    		<h4>Advisory Committee Member</h4>
+    		<h3>Wes Levitt</h3>
+    		<h4>BoardMember</h4>
     		
-    		<p>While raising her family, Nancy became involved in Parent Teacher Association (PTA), 
-    		as many moms of school-aged kids do. Inspired by the broader issues the state PTA takes 
-    		on, Nancy became involved on a larger scale. She spent over 17 years in all levels of 
-    		PTA, including four years on the California State PTA Board of Managers, actively 
-    		participating on a variety of commissions and committees, including finance, bylaws, a
-    		nd leadership services.
-    		</p>
-			<p> Nancy served two years as vice president for health on the California State PTA Board 
-			of Directors. During her years on the State Board she was responsible for writing two 
-			resolutions that were passed by the delegates at the annual convention.
-    		</p>
-    		<p>Her interest and passion for children’s health issues led to 10 years as executive 
-    		director of the California School Nurses Organization (CSNO). As an advocate for more 
-    		school nurses in California schools, she testified before the legislature and worked with 
-    		a variety of groups and state agencies. She and her husband live in Sacramento, California.
+    		<p>Wes earned his bachelor's degree in economics from the University of Oregon. 
+    		He is currently an associate at Redwood Trust, a real estate investment firm in 
+    		Mill Valley, CA. He previously worked at Umpqua Bank in Eugene, OR, where he was 
+    		active in the bank's Connect volunteer program. He is a Napa native and recently 
+    		returned to the area after 20 years spent living in Oregon and central Texas.
     		</p>
     	
     	</div><!--profile_bio-->
     	
     	<div class="interesting_facts">
-    	<p class="fact_title_even">Interesting Facts About Nancy</p>
+    	<p class="fact_title_even">Interesting Facts About Wes</p>
     	
     	<ul>
-    		<li>After being forced to take a speed reading class in high school, Nancy reads 1,000 words per minute.</li>
-    		<li>Her favorite books are romantic suspense, military science fiction, and paranormal—or any combination of the genres.</li>
-    		<li>When her sons were in high school, Nancy single-handedly provided the desserts for five years 
-    		of senior awards nights—attended by 400 people!</li>
+    		<li>He once lived in a town so small that the nearest grocery store was 13 miles away.</li>
+    		<li>He played in a punk rock band in high school, which in hindsight wasn't a very good one.</li>
+    		<li>He is a diehard Portland Trail Blazers and University of Oregon sports fan, no matter 
+    		how many times they’ve disappointed him. </li>
     	</ul>
     	
     	</div><!--interesting_facts-->
@@ -262,39 +251,6 @@
     	</div><!--interesting_facts-->
     	
     	<div class="profile_photos">
-    		<img src="images/board_Scott.jpg" alt="Stephani Scott" />
-    	</div><!--profile_photos-->
-    	
-    	<div class="profile_bio">
-    		<h3>Stephani Scott, Executive Director, San Mateo County Community Colleges Foundation</h3>
-    		<h4>Advisory Committee Member</h4>
-    		
-    		<p>A graduate of San Diego State University with a bachelor’s degree in sociology, 
-    		Stephani has an established a legacy of developing community and organizational 
-    		partnerships. Stephani is currently executive director at San Mateo County Community 
-    		Colleges Foundation. Prior to her present role, Stephani was CEO of Sequoia Healthcare 
-    		District where she instituted a robust grant program, a nursing education enterprise, 
-    		and HeartSafe—the first Public Access Defibrillation program in San Mateo County. 
-    		Prior to her role at Sequoia Healthcare District, Stephani was executive director of 
-    		Sustainable San Mateo County, a local non-profit organization dedicated to programs 
-    		promoting the economic vitality, social equity, and environmental stability of our 
-    		local region. Stephani and her family reside in Redwood City, California.
-    		</p>
-    	
-    	</div><!--profile_bio-->
-    	
-    	<div class="interesting_facts">
-    	<p class="fact_title_even">Interesting Facts About Stephani</p>
-    	
-    	<ul>
-    		<li>She became a CEO at age 30.</li>
-    		<li>She is addicted to chocolate with no plans to give it up.</li>
-    		<li>Stephani enjoys hiking and swimming in an effort to offset her chocolate addiction.</li>
-    	</ul>
-    	
-    	</div><!--interesting_facts-->
-    	
-    	<div class="profile_photos">
     		<img src="images/board-robert.jpg" alt="Robert W. Taggart" />
     	</div><!--profile_photos-->
     	
@@ -317,7 +273,7 @@
     	</div><!--profile_bio-->
     	
     	<div class="interesting_facts">
-    	<p class="fact_title_odd">Interesting Facts About Robert</p>
+    	<p class="fact_title_even">Interesting Facts About Robert</p>
     	
     	<ul>
     		<li>Coming Soon!</li>
@@ -353,7 +309,7 @@
     	</div><!--profile_bio-->
     	
     	<div class="interesting_facts">
-    	<p class="fact_title_even">Interesting Facts About Rodney</p>
+    	<p class="fact_title_odd">Interesting Facts About Rodney</p>
     	
     	<ul>
     		<li>He studied grape growing and wine making in France and made wine in Napa Valley.</li>
