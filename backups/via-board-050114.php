@@ -182,8 +182,9 @@
     	<p class="fact_title_odd">Interesting Facts About Bruce</p>
     	
     	<ul>
-    		<li>Bruce is an avid cyclist, preferring his bike to his car</li>
-			<li>He loves to ski but hates the cold</li>
+    		<li>Coming Soon!</li>
+    		<li>Coming Soon!</li>
+    		<li>Coming Soon!</li>
     	</ul>
     	
     	</div><!--interesting_facts-->

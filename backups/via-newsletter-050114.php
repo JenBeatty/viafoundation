@@ -56,12 +56,6 @@
     		<p>Via’s 2nd Annual Cocktail Party, Welcome Pam<br /> Dodson, Ask Bob, Fun Facts.</p>
     	</div><!--newsletter_photos_right-->
     	
-    	<div class="newsletter_group_left">
-    		<a href="http://us4.campaign-archive1.com/?u=3f938141ae9b05cd3b134fda0&id=29fa336ca3&e=c5c2a9607b" title="Via's April Newsletter"><h3>April, 2014</h3></a>
-    		<a href="http://us4.campaign-archive1.com/?u=3f938141ae9b05cd3b134fda0&id=29fa336ca3&e=c5c2a9607b" title="Via's April Newsletter"><img src="images/newsletter-archive-03.png" alt="The Via Foundation's quarterly newsletter from April, 2014" /></a>
-    		<p>LinkedIn: Ahead of the Curve, Introducing Wes Levitt, Bob’s Legal Corner and Fun Facts.</p>
-    	</div><!--newsletter_photos_left-->
-    	
     </div><!--main_content-->
     
 </div><!--main-->
